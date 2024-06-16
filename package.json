@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "npx tailwindcss -i ./src/main.css -o ./public/assets/css/main.css -w",
-    "build": "npx tailwindcss -i ./src/main.css -o ./public/assets/css/main.css --netlify"
+    "watch": "npx tailwindcss -i ./src/main.css -o ./public/assets/css/main.css -w"
   },
   "keywords": [],
   "author": "Fajar Siagian",
